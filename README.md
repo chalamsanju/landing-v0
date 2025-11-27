@@ -15,4 +15,12 @@ npm run dev
 - Tailwind CSS
 
 ## Vercel v0
-I used Vercel v0 to generate UI sections (Hero, Feature cards, Testimonials) and integrated the exported JSX into `components/`.
+
+
+I used Vercel v0 to generate multiple UI sections including the Hero area, Feature cards, and Testimonials.  
+The exported JSX from v0 was integrated into my Next.js project and styled further using Tailwind CSS.  
+The remaining sections—Contact and Footer—were improved with animations, gradients, hover effects, and responsive layout adjustments.  
+Smooth scrolling, sticky navbar, and section anchoring were added to enhance user experience.  
+The project is fully responsive across screen sizes and deployed using Vercel for production.  
+The code is cleanly organized into components, making it easy to maintain and extend.
+
